@@ -6,6 +6,7 @@ The code is fairly untested, and may break your kit.  However, these modes have 
 
 * UART (Read/Write/Bridge)
 * SPI (Sniff/Write-read)
+* I2C (Sniff/Write-read)
 
 
 ##Install
